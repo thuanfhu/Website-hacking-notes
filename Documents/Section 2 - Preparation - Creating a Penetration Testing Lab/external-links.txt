@@ -1,0 +1,21 @@
+
+002 Kali-2022-Download-Page
+https://zsecurity.org/download-custom-kali/
+
+003 VMware-Player-Download-Page
+https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+
+003 7-zip-Download-page
+https://www.7-zip.org/
+
+004 VMware-Player-Download-Page
+https://www.vmware.com/products/fusion.html
+
+004 VMware-for-M1-Apple-Computers
+https://drive.google.com/file/d/1tG6UqWva0l0Ii_zArHc4pRvGahlE1pCz/view?usp=sharing
+
+005 VMware-Player-Download-Page
+https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+
+006 Metasploitable-Download-Page
+https://sourceforge.net/projects/metasploitable/
